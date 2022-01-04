@@ -1,4 +1,4 @@
-# simulated-annealing
+# Simulated Annealing
 Learning about Simulated Annealing
 
 
